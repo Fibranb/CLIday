@@ -1,2 +1,2 @@
-# CLIday
+CLIday
 CLI and GIThub training
